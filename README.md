@@ -5,6 +5,7 @@ Segue abaixo a proposta inicial:
 - **MVC**
   - Introdução
 - **Laravel 4**
+  - Instalação e configuração
   - Estrutura de pastas
   - Mudanças em relação à versão 3
 - **Composer**
@@ -47,6 +48,8 @@ Segue abaixo a proposta inicial:
 - **Filas (queues)**
 - **Eventos**
 - **Internacionalização**
+- **Arquivos de configuração**
+- **Configuração de múltiplos ambientes**
 - **Validações, tratamento de erros, gerando logs de erros**
 - **Autenticação**
 - **Avançados**
@@ -54,4 +57,11 @@ Segue abaixo a proposta inicial:
   - Repositórios
   - Testes unitários
   - Melhores práticas
+  - Criando bibliotecas/helpers próprios
   - Deploy de uma aplicação
+- **Composer packages**
+  - Utilizando packages de fora do framework:
+     - Basset (gerenciador de assets)
+     - Bootstrapper (auxilia integração com Twitter Bootstrap)
+     - Laravel Generators
+     - FactoryMuff (para auxiliar nos testes)

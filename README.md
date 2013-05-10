@@ -1,4 +1,52 @@
-cursolaravel4
-=============
-
-Proposta de curso do Laravel 4
+- **MVC**
+  - Introdução
+- **Laravel 4**
+  - Estrutura de pastas
+  - Mudanças em relação à versão 3
+- **Composer**
+  - Introdução
+  - Autoload
+  - Packages
+- **Rotas**
+  - Introdução
+  - Rotas com parametros
+  - Validando rotas com expressões regulares
+  - Dando nomes às rotas (named routes)
+  - Rotas agrupadas
+  - Rotas em subdominios
+  - Prefixos
+- **Filtros**
+   - Before filter, after filter
+   - Pattern filter
+- **Controllers**
+  - Introdução
+  - Controller filters
+  - RESTful Controllers
+  - Resource controllers
+- **Model e banco de dados**
+  - Models
+  - Query builder
+  - **Eloquent**
+    - Relacionamentos
+    - Escopos
+    - Paginação
+  - Migrations e Schema Builder
+  - Seeds
+- **Views e Blade template engine**
+  - Introdução
+  - Blade
+  - Layouts
+  - Formularios
+- **Cache**
+- **Artisan (linha de comando do laravel)**
+- **Envio de e-mails**
+- **Filas (queues)**
+- **Eventos**
+- **Internacionalização**
+- **Validações, tratamento de erros, gerando logs de erros**
+- **Autenticação**
+- **Avançados**
+  - IoC Container
+  - Repositórios
+  - Testes unitários
+  - Deploy de uma aplicação

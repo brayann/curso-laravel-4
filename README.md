@@ -53,4 +53,5 @@ Segue abaixo a proposta inicial:
   - IoC Container
   - Repositórios
   - Testes unitários
+  - Melhores práticas
   - Deploy de uma aplicação

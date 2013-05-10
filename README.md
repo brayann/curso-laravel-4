@@ -32,9 +32,9 @@ Segue abaixo a proposta inicial:
   - Models
   - Query builder
   - **Eloquent**
-    - Relacionamentos
-    - Escopos
-    - Paginação
+     - Relacionamentos
+     - Escopos
+     - Paginação
   - Migrations e Schema Builder
   - Seeds
 - **Views e Blade template engine**

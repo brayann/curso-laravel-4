@@ -10,6 +10,7 @@ Segue abaixo a proposta inicial:
   - Mudanças em relação à versão 3
 - **Composer**
   - Introdução
+  - PSR-0 e PSR-1 (Resumo das definições dos padrões)
   - Autoload
   - Packages
 - **Rotas**
@@ -28,6 +29,7 @@ Segue abaixo a proposta inicial:
   - Controller filters
   - RESTful Controllers
   - Resource controllers
+  - Controllers usando namespaces (como organiza-los em pastas)
 - **Model e banco de dados**
   - Models
   - Query builder
@@ -42,6 +44,7 @@ Segue abaixo a proposta inicial:
   - Blade
   - Layouts
   - Formularios
+  - View Composers
 - **Cache**
 - **Artisan (linha de comando do laravel)**
 - **Envio de e-mails**
@@ -53,7 +56,9 @@ Segue abaixo a proposta inicial:
 - **Validações, tratamento de erros, gerando logs de erros**
 - **Autenticação**
 - **Avançados**
-  - IoC Container
+  - **IoC Container**
+     - Introdução
+     - ServiceProviders
   - Repositórios
   - Testes unitários
   - Melhores práticas

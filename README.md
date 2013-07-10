@@ -1,6 +1,4 @@
-### Proposta de grade para o curso Laravel 4
-Para propor uma alteração/inclusão, crie uma issue.
-Segue abaixo a proposta inicial:
+### Grade do curso Laravel 4
 
 - **MVC**
   - Introdução
@@ -37,6 +35,7 @@ Segue abaixo a proposta inicial:
      - Relacionamentos
      - Escopos
      - Paginação
+     - ...
   - Migrations e Schema Builder
   - Seeds
 - **Views e Blade template engine**
@@ -66,7 +65,8 @@ Segue abaixo a proposta inicial:
   - Deploy de uma aplicação
 - **Composer packages**
   - Utilizando packages de fora do framework:
-     - Basset (gerenciador de assets)
+     - Ardent - Validação de model
+     - Asset - gerenciamento de Assets (JS, CSS)
      - Bootstrapper (auxilia integração com Twitter Bootstrap)
      - Laravel Generators
      - FactoryMuff (para auxiliar nos testes)

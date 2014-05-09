@@ -70,3 +70,16 @@
      - Bootstrapper (auxilia integração com Twitter Bootstrap)
      - Laravel Generators
      - FactoryMuff (para auxiliar nos testes)
+- **Tópicos extras**
+  - Laravel com Vagrant
+  - Atualizações da versão 4.0 para 4.1
+  - Atualizações versão 4.2
+  - Trabalhando com mídias sociais (OAuth2)
+  - Laravel Cashier
+  - ACL (access control list) no Laravel
+  - Arquitetura
+     - Service Providers
+     - Facades
+     - Repositories
+  - Criando packages
+  - Exemplo de SPA com Laravel e AngularJS

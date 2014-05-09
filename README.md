@@ -83,3 +83,5 @@
      - Repositories
   - Criando packages
   - Exemplo de SPA com Laravel e AngularJS
+  - Estratégias de deploy
+  - Profiling (erros/performance) da aplicação com New Relic, Clockwork e Bugsnag
